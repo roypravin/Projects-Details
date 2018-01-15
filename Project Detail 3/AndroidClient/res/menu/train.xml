@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/itemTrainObj1"
+        android:title="Register as Object One">
+    </item>
+    <item
+        android:id="@+id/itemTrainObj2"
+        android:title="Register as Object Two">
+    </item>
+    <item
+        android:id="@+id/itemTrainObj3"
+        android:title="Register as Object Three">
+    </item>
+    <item
+        android:id="@+id/itemTrainAnn"
+        android:title="Train All Objects">
+    </item>
+
+</menu>

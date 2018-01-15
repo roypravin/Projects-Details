@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multi Model Search</string>
+    <string name="title_activity_image_search">Image Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_voice_search">Voice Search</string>
+    <string name="title_activity_text_search">Text Search </string>
+
+</resources>
